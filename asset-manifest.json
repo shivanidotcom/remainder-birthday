@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/remainder-birthday/static/css/main.709481cc.chunk.css",
+    "main.js": "/remainder-birthday/static/js/main.199bcc2d.chunk.js",
+    "main.js.map": "/remainder-birthday/static/js/main.199bcc2d.chunk.js.map",
+    "runtime-main.js": "/remainder-birthday/static/js/runtime-main.1338af49.js",
+    "runtime-main.js.map": "/remainder-birthday/static/js/runtime-main.1338af49.js.map",
+    "static/js/2.906af4a9.chunk.js": "/remainder-birthday/static/js/2.906af4a9.chunk.js",
+    "static/js/2.906af4a9.chunk.js.map": "/remainder-birthday/static/js/2.906af4a9.chunk.js.map",
+    "index.html": "/remainder-birthday/index.html",
+    "static/css/main.709481cc.chunk.css.map": "/remainder-birthday/static/css/main.709481cc.chunk.css.map",
+    "static/js/2.906af4a9.chunk.js.LICENSE.txt": "/remainder-birthday/static/js/2.906af4a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1338af49.js",
+    "static/js/2.906af4a9.chunk.js",
+    "static/css/main.709481cc.chunk.css",
+    "static/js/main.199bcc2d.chunk.js"
+  ]
+}
