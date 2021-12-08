@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-advanced-assignment/static/css/main.f72c3b9a.chunk.css",
-    "main.js": "/react-advanced-assignment/static/js/main.fbe2e475.chunk.js",
-    "main.js.map": "/react-advanced-assignment/static/js/main.fbe2e475.chunk.js.map",
-    "runtime-main.js": "/react-advanced-assignment/static/js/runtime-main.6232f5ee.js",
-    "runtime-main.js.map": "/react-advanced-assignment/static/js/runtime-main.6232f5ee.js.map",
-    "static/js/2.ebac067d.chunk.js": "/react-advanced-assignment/static/js/2.ebac067d.chunk.js",
-    "static/js/2.ebac067d.chunk.js.map": "/react-advanced-assignment/static/js/2.ebac067d.chunk.js.map",
-    "index.html": "/react-advanced-assignment/index.html",
-    "static/css/main.f72c3b9a.chunk.css.map": "/react-advanced-assignment/static/css/main.f72c3b9a.chunk.css.map",
-    "static/js/2.ebac067d.chunk.js.LICENSE.txt": "/react-advanced-assignment/static/js/2.ebac067d.chunk.js.LICENSE.txt"
+    "main.css": "/react-advanced-asg/static/css/main.f72c3b9a.chunk.css",
+    "main.js": "/react-advanced-asg/static/js/main.fbe2e475.chunk.js",
+    "main.js.map": "/react-advanced-asg/static/js/main.fbe2e475.chunk.js.map",
+    "runtime-main.js": "/react-advanced-asg/static/js/runtime-main.04f0a0ef.js",
+    "runtime-main.js.map": "/react-advanced-asg/static/js/runtime-main.04f0a0ef.js.map",
+    "static/js/2.ebac067d.chunk.js": "/react-advanced-asg/static/js/2.ebac067d.chunk.js",
+    "static/js/2.ebac067d.chunk.js.map": "/react-advanced-asg/static/js/2.ebac067d.chunk.js.map",
+    "index.html": "/react-advanced-asg/index.html",
+    "static/css/main.f72c3b9a.chunk.css.map": "/react-advanced-asg/static/css/main.f72c3b9a.chunk.css.map",
+    "static/js/2.ebac067d.chunk.js.LICENSE.txt": "/react-advanced-asg/static/js/2.ebac067d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6232f5ee.js",
+    "static/js/runtime-main.04f0a0ef.js",
     "static/js/2.ebac067d.chunk.js",
     "static/css/main.f72c3b9a.chunk.css",
     "static/js/main.fbe2e475.chunk.js"
