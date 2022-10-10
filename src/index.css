@@ -188,4 +188,21 @@ main {
   border-radius: var(--radius);
   outline: 1px solid rgba(242, 138, 178, 0.8);
   cursor: pointer;
+  box-shadow: rgba(99, 99, 99, 0.3) 0px 2px 8px 0px;
+  transition: all .2s ease;
+
+}
+
+.container button:hover{
+
+  transform: translateY(-2.5px);
+  box-shadow: rgba(99, 99, 99, 0.6) 0px 2px 8px 0px;
+
+}
+
+.container button:active{
+
+  transform: translateY(1px);
+  box-shadow: rgba(99, 99, 99, 0.3) 0px 2px 8px 0px;
+
 }
